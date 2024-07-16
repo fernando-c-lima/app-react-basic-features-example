@@ -1,5 +1,4 @@
 # Projeto React com Recursos Básicos
-Este projeto React demonstra o uso de imagens, hooks, if-else, componentização, props e eventos básicos para criar uma aplicação simples.
 
 ## Descrição
 Este projeto consiste em um aplicativo React que:
@@ -13,21 +12,21 @@ Este projeto consiste em um aplicativo React que:
 # Pré-requisitos
 Antes de começar, certifique-se de ter o Node.js e npm instalados em sua máquina.
 
-Node.js: https://nodejs.org/
+Node.js: [https://nodejs.org/]()
 - npm: normalmente já vem com o Node.js
 - Como começar
 
 ## 1- Clonar repositório
-git clone https://github.com/seu-usuario/projeto-react-recursos-basicos.git
-cd projeto-react-recursos-basicos
+git clone `https://github.com/fernando-c-lima/app-react-basic-features-example.git`
+
 
 ## Instalar dependências
-npm install
+`npm install`
 
 ## Rodar o aplicativo localmente
-npm start
+`npm start`
 
-Isso iniciará o servidor de desenvolvimento. Abra http://localhost:3000 no seu navegador para ver o projeto.
+Isso iniciará o servidor de desenvolvimento. [Abra http://localhost:3000]() no seu navegador para ver o projeto.
 
 ## Funcionalidades
 - Componentização: Utilização de componentes para estruturar a interface do usuário.
